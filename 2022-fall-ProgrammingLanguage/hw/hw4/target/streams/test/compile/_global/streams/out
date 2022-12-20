@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/sim-eun-yeong/Downloads/hw4/src/test/scala/Hw4Test.scala:44:3: (scala.collection.immutable.HashMap[hw4.Var,hw4.LocVal], hw4.Mem, hw4.Mem) does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m  (HashMap[Var,LocVal](Var("temp") -> LocVal(2)),[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

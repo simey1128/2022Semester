@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/sim-eun-yeong/Downloads/hw3/src/main/scala/Hw3.scala:68:20: hw3.Val and None.type are unrelated: they will most likely never compare equal[0m
+[0m[[0m[33mwarn[0m] [0m[0m            if(ret == None) throw UndefinedSemantics("at Var, LocVal(l) doesn't exist")[0m
+[0m[[0m[33mwarn[0m] [0m[0m                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

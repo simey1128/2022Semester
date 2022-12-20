@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/sim-eun-yeong/Downloads/hw2/src/main/scala/Hw2.scala:150:5: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: LetRec(_, _, _, _), Paren(_)[0m
+[0m[[0m[33mwarn[0m] [0m[0m    expr match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
